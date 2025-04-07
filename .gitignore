@@ -1,0 +1,20 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# Visual Studio
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
